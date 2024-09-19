@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @jordanoboyle
-- 👀 I’m interested in....not sure what this section is about. Want to know what I have done with my life so far, just ask! :-) Always willing to talk about hobbies and past life. Your pick the question.
-- 🌱 Ruby, JavaScript, Python, Ruby on Rails, React.js
-- 💞️ 
-- 📫 How to reach me: you can reach me at jmcmcode@gmail.com for most professional and collaborative needs. jmcmgaming89@gmail.com is another way to reach me for more casual purposes. 
+#About Me:
+  - Not a great story to tell. But I am always willing to learn from those better than I and teach those who wish to learn.
+
+## Current Working Knowledge
+  - 🌱 JavaScript, CSS, HTML, Python, Ruby, Ruby on Rails, React.js
+## Learning 
+  - Currently expanding my knowledge in using Vanilla JS to build reasonably robust web applications. Below, many of the repositories feature that learning process.
+  - Also working on learning more about Phaser so I can build a fun little browser based game for others to enjoy. 
+## Reach me here:
+  - 📫 Email 1: jmcmcode@gmail.com
+  - 📫 Email 2: jmcmgaming89@gmail.com
 
 <!---
 joboyle89/joboyle89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
