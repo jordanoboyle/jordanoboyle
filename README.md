@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanoboyle
 #About Me:
-  - Not a great story to tell. But I am always willing to learn from those better than I and teach those who wish to learn.
+  - Not a great story to tell. But I certainly do enjoy Platypuses...mammals that lay eggs. Seriously, why be so confusing with animals. 
 
 ## Current Working Knowledge
   - 🌱 JavaScript, CSS, HTML, Python, Ruby, Ruby on Rails, React.js
